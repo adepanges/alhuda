@@ -1,0 +1,2 @@
+[submodule "application/libraries/unirest-php"]
+	url = https://github.com/Mashape/unirest-php.git
